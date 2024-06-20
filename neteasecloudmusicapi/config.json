@@ -1,6 +1,6 @@
 {
   "name": "NeteaseCloudMusicApi",
-  "version": "v4.20.0",
+  "version": "v4.14.1",
   "slug": "neteasecloudmusicapi",
   "description": "网易云音乐 Node.js API service",
   "url": "https://github.com/yideshi/hassio-addons/blob/main/neteasecloudmusicapi",
@@ -9,7 +9,7 @@
   "boot": "auto",
   "init": false,
   "webui": "http://[HOST]:[PORT:3000]",
-  "image": "binaryify/netease_cloud_music_api",
+  "image": "dscao/amd64-addon-neteasecloudmusicapi",
   "ports": {
     "3000/tcp": "3000"
   }
