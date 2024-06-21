@@ -6,4 +6,4 @@ from https://github.com/Binaryify/NeteaseCloudMusicApi
 
 ## 本 addon 方式
 ha的加载项仓库(Repo)添加：https://github.com/dscao/hassio-addons \
-稍后直接安装，编译即可。
+稍后直接安装，编译即可123。
