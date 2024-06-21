@@ -9,7 +9,7 @@
   "boot": "auto",
   "init": false,
   "webui": "http://[HOST]:[PORT:3000]",
-  "image": "yideshi/neteasecloudmusicapi",
+  "image": "192.168.68.245:5000/yideshi/neteasecloudmusicapi",
   "ports": {
     "3000/tcp": "3000"
   }
